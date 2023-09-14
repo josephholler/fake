@@ -15,19 +15,15 @@ Find more information about the class I am taking [here](https://opengiscience.g
 
 Here is an image: 
 
-![github logo](/assets/images/GitHub-Mark.png)
+![github logo](/fake/assets/images/GitHub-Mark.png)
 
-![github logo](/assets/images/bio-photo.png)
+![github logo](/fake/assets/images/bio-photo.png)
 
 Here is an image: 
 
 
-Link to [another post](/blog/post-modified)
+Link to [another post](/fake/blog/post-modified)
 
-Link to [another post](/blog/post-standard)
-
-
-Link to [another post](Blog/post-modified)
 
 
 | table column 1 | table column 2 |
