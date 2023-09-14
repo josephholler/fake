@@ -22,9 +22,9 @@ Here is an image:
 Here is an image: 
 
 
-Link to [another post](blog/post-modified)
+Link to [another post](/blog/post-modified)
 
-Link to [another post](blog/post-standard)
+Link to [another post](/blog/post-standard)
 
 
 Link to [another post](Blog/post-modified)
