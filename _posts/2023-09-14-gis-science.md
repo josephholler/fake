@@ -22,7 +22,7 @@ Here is an image:
 Here is an image: 
 
 
-Link to [another post](/fake/blog/post-modified)
+Link to [another post](/fake/blog/post-modified/)
 
 
 
