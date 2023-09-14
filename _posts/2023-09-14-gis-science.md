@@ -13,9 +13,18 @@ Write some very **intelligent** things *about GIS* as a Science here, and make i
 Find more information about the class I am taking [here](https://opengiscience.github.io)
 
 
-Here is an image: ![github logo](/assets/images/GitHub-Mark.png)
+Here is an image: 
 
-Here is an image: ![github logo](assets/GitHub-Mark.png)
+![github logo](/assets/images/GitHub-Mark.png)
+
+![github logo](/assets/images/bio-photo.png)
+
+Here is an image: 
+
+
+Link to [another post](blog/post-modified)
+
+Link to [another post](blog/post-standard)
 
 
 Link to [another post](Blog/post-modified)
