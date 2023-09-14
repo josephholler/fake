@@ -15,8 +15,10 @@ Find more information about the class I am taking [here](https://opengiscience.g
 
 Here is an image: ![github logo](/assets/images/GitHub-Mark.png)
 
+Here is an image: ![github logo](assets/GitHub-Mark.png)
 
-Link to [another post](/2010/01/07/post-modified)
+
+Link to [another post](/post-modified)
 
 
 | table column 1 | table column 2 |
