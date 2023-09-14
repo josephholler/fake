@@ -18,7 +18,7 @@ Here is an image: ![github logo](/assets/images/GitHub-Mark.png)
 Here is an image: ![github logo](assets/GitHub-Mark.png)
 
 
-Link to [another post](/post-modified)
+Link to [another post](Blog/post-modified)
 
 
 | table column 1 | table column 2 |
